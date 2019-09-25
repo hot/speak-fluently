@@ -1,7 +1,7 @@
 # Speak-fluently
 
 ## What's speak-fluently
-This is a script, mainly aim to help people speak fluently foreign language.
+This is a script, mainly aimed to help people speak foreign languages fluently .
 
 ## How to
 By provide a simple function to help user pratice.
