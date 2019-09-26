@@ -1,9 +1,9 @@
-
+![Demo](https://raw.githubusercontent.com/hot/speak-fluently/master/demo_pic.png)
 
 
 # Speak-fluently
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Install](https://github.com/hot/speak-fluently/raw/master/SpeakFluently.user.js)
 
 
 ## What's speak-fluently
@@ -30,7 +30,7 @@ After listen the sentences, You can Record your own replica, and compare with th
  
  
  # Speak-fluently 流利说外语
- 
+ [点我安装](https://github.com/hot/speak-fluently/raw/master/SpeakFluently.user.js)
  ## 什么是 Speak-fluently?
  这是一个[TamperMonkey](https://www.tampermonkey.net/)的脚本。主要目的是帮助大家流畅的练习`说`外语。
  
