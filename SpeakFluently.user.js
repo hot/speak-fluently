@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name            Fuck FuckAdBlock
-// @author          Mechazawa
-// @namespace       Mechazawa
-// @description     Acts like FuckAdBlock.js but always says that no adblock was detected.
-// @license         WTFPl
-// @version         7
-// @include         *
-// @run-at          document-start
-// @updateURL       https://raw.githubusercontent.com/Mechazawa/FuckFuckAdblock/master/FuckFuckAdBlock.user.js
-// @grant           none
+// @name         SpeakFluently
+// @namespace    JialiYu
+// @version      0.1
+// @description  Help users pratices foreign language.
+// @author       JialiYu
+// @include 	 http://www.youtube.com/*
+// @include 	 https://www.youtube.com/*
+// @require 	 http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @require 	 https://unpkg.com/wavesurfer.js
+// @grant        none
 // ==/UserScript==
 
 function sleep(ms) {
