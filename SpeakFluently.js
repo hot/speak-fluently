@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         SpeakFluently
-// @namespace    http://tampermonkey.net/
+// @namespace    JialiYu
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Help users pratices foreign language.
+// @author       JialiYu
 // @include 	 http://www.youtube.com/*
 // @include 	 https://www.youtube.com/*
 // @require 	 http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @require 	 https://unpkg.com/wavesurfer.js
-
 // @grant        none
 // ==/UserScript==
 
