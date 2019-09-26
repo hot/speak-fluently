@@ -1,7 +1,7 @@
 # Speak-fluently
 
 ## What's speak-fluently
-This is a script, mainly aimed to help people to `speak` foreign languages fluently .
+It is a [TamperMonkey](https://www.tampermonkey.net/) script, mainly aimed to help people to `speak` foreign languages fluently .
 
 ## How to
 By provide a simple function to help user pratice.
@@ -38,4 +38,12 @@ After listen the sentences, You can Record your own replica, and compare with th
  听完一段话之后， 你可以自己录音，然后比对录音和原音之间的区别。
  
  ### UI 功能
- > 
+ > Mark按钮
+ * 标记片段开始位置
+ > Replay按钮
+ * 标记片段结束位置， 并重播
+ 
+ > Rec按钮
+ * 录音开关
+ 
+ 
