@@ -453,7 +453,7 @@ text-align: middle;
 
 $(document).ready(function () {
     inject_our_script();
-    alert(get_video_id());
+    //alert(get_video_id());
 
 	window.AudioContext = window.AudioContext || window.webkitAudioContext;
     navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia;
